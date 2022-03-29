@@ -1,1 +1,1 @@
-{"bl_host": "raw.githubusercontent.com", "bl_port_no": 443, "bl_url": "/kblade2/test001/main/toggle_5sec.bin", "ver": 1.0, "ota": 0}
+{"bl_host": "raw.githubusercontent.com", "bl_port_no": 443, "bl_url": "/kblade2/test001/main/toggle_5sec.bin", "ver": 1.0, "ota": 1}
