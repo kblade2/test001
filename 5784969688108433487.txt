@@ -1,1 +1,1 @@
-{"bin_host": "raw.githubusercontent.com", "bin_port_no": 443, "bin_url": "/kblade2/test001/main/toggle_5sec.bin", "bin_ver": "1.9.1", "bin_ota": 0}
+{"bin_host": "raw.githubusercontent.com", "bin_port_no": 443, "bin_url": "/kblade2/test001/main/sample2.bin", "bin_ver": "1.9.1", "bin_ota": 0}
