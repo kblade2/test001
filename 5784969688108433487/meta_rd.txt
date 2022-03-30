@@ -1,1 +1,1 @@
-{"rd_host": "raw.githubusercontent.com", "rd_port_no": 443, "rd_url": "/kblade2/remote_diagnostics/main/002_EVD_ESP_RD_gs_link.txt", "rd_ver": "1.9.1", "rd_flag": 0}
+{"rd_host": "script.google.com", "rd_port_no": 443, "rd_url": "/kblade2/remote_diagnostics/main/002_EVD_ESP_RD_gs_link.txt", "rd_ver": "1.9.1", "rd_flag": 0}
