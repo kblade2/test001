@@ -1,1 +1,1 @@
-{"rd_host": "script.google.com", "rd_port_no": 443, "rd_url": "/macros/s/AKfycbxKkDL8faWZ3y-hilWbR76f11n55we7gGfzdoh6I-oNb2OHXn8xfcyNMh4A44XKYZac/exec", "rd_ver": "1.9.1", "rd_flag": 0}
+{"rd_simnumber": "002_EVD_ESP_RD", "rd_host": "script.google.com", "rd_port_no": 443, "rd_url": "/macros/s/AKfycbxKkDL8faWZ3y-hilWbR76f11n55we7gGfzdoh6I-oNb2OHXn8xfcyNMh4A44XKYZac/exec", "rd_ver": "1.9.1", "rd_flag": 0}
