@@ -1,1 +1,1 @@
-{"rt_host": "raw.githubusercontent.com", "rt_port_no": 443, "rt_url": "/kblade2/test001/main/sample2.bin", "rt_ver": "1.9.1", "rt_no": 191, "rt_flag": 0}
+{"var1": 101.12, "var2": 223.32, "var3": 1221.0, "var4": 2663.12, "var5": 155.44, "var6": 12.21, "rt_ver": "1.9.1", "rt_no": 191}
