@@ -1,1 +1,1 @@
-{"dev_sn_no": 5784969688108433487, "all_file_path": "/kblade2/test001/main/", "bin_file_name": "/meta_bin.txt", "rd_file_name": "/meta_rd.txt", "rt_file_name": "/meta_rt.txt"}
+{"dev_sn_no": 5784969688108433487, "all_file_path": "/kblade2/test001/main/", "bin_file_name": "meta_bin.txt", "rd_file_name": "/meta_rd.txt", "rt_file_name": "/meta_rt.txt"}
