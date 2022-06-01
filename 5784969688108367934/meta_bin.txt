@@ -1,1 +1,1 @@
-{"bin_host": "raw.githubusercontent.com", "bin_port_no": 443, "bin_url": "/kblade2/test001/main/", "bin_ver": "1.2.6.8", "bin_no": 1268, "bin_flag": 0, "bin_size_before": 8720, "bin_size_after": 12288, "bin_crc32_key": 0}
+{"bin_host": "raw.githubusercontent.com", "bin_port_no": 443, "bin_url": "/kblade2/test001/main/", "bin_ver": "3.3.3.3", "bin_no": 3333, "bin_flag": 0, "bin_size_before": 8348, "bin_size_after": 12288, "bin_crc32_key": 0}
